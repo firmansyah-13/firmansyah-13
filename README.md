@@ -11,7 +11,7 @@
 </pre>
 </div>
 <div display="flex">
-  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="90"/> 
+  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="90" aria-label="pause kyubey.gif"/> 
   <img width='300' src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=firmansyah-13&theme=tokyonight" />
 </div>
     <h3 align="center">My Social Media</h3>
